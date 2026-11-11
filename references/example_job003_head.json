@@ -1,0 +1,272 @@
+{
+ "slug": "job003",
+ "fps": 30,
+ "audio": "long2d/job003/narration.mp3",
+ "duration": 661.824,
+ "lead": {
+  "jacket": "#2f8f8a",
+  "pants": "#3a3f52",
+  "boots": "#2e2a36",
+  "hat": "hair",
+  "hair": "#3a2a22"
+ },
+ "sfx": true,
+ "music": null,
+ "chapters": [],
+ "scenes": [
+  {
+   "lines": [
+    1,
+    1
+   ],
+   "set": "room",
+   "layout": "left",
+   "mood": "smile",
+   "enter": true,
+   "items": [
+    {
+     "kind": "pill",
+     "text": "THINGS YOU RARELY USE",
+     "at": "rarely",
+     "px": 64
+    }
+   ]
+  },
+  {
+   "lines": [
+    2,
+    6
+   ],
+   "set": "room",
+   "layout": "left",
+   "mood": "smile",
+   "items": [
+    {
+     "kind": "prop",
+     "prop": "car",
+     "label": "SECOND CAR",
+     "at": "car"
+    },
+    {
+     "kind": "prop",
+     "prop": "garage",
+     "label": "GARAGE",
+     "at": "garage"
+    },
+    {
+     "kind": "prop",
+     "prop": "bed",
+     "label": "SPARE ROOM",
+     "at": "room"
+    },
+    {
+     "kind": "prop",
+     "prop": "camera",
+     "label": "CAMERA",
+     "at": "camera"
+    },
+    {
+     "kind": "prop",
+     "prop": "pool",
+     "label": "POOL / YARD",
+     "at": "pool"
+    }
+   ]
+  },
+  {
+   "lines": [
+    7,
+    9
+   ],
+   "set": "concept:gold",
+   "layout": "left",
+   "mood": "grin",
+   "items": [
+    {
+     "kind": "coins",
+     "at": "pay"
+    },
+    {
+     "kind": "title",
+     "text": "THEY PAY YOU",
+     "at": "pay"
+    },
+    {
+     "kind": "strike",
+     "text": "SELL THEM",
+     "at": "selling"
+    },
+    {
+     "kind": "title",
+     "text": "RENT THEM",
+     "at": "renting",
+     "color": "teal"
+    }
+   ]
+  },
+  {
+   "lines": [
+    10,
+    12
+   ],
+   "set": "board",
+   "layout": "left",
+   "mood": "smile",
+   "items": [
+    {
+     "kind": "title",
+     "text": "ASSET RENTAL",
+     "at": "asset"
+    },
+    {
+     "kind": "pill",
+     "text": "SOUNDS SIMPLE",
+     "at": "simple"
+    },
+    {
+     "kind": "strike",
+     "text": "BLOG MATH",
+     "at": "math",
+     "strikeAt": "blogs"
+    }
+   ]
+  },
+  {
+   "lines": [
+    13,
+    18
+   ],
+   "set": "desk",
+   "layout": "left",
+   "mood": "smile",
+   "items": [
+    {
+     "kind": "check",
+     "rows": [
+      [
+       "REAL NUMBERS",
+       "numbers"
+      ],
+      [
+       "PLATFORMS",
+       "platforms"
+      ],
+      [
+       "HIDDEN COSTS",
+       "hidden"
+      ],
+      [
+       "TAXES",
+       "taxes"
+      ],
+      [
+       "RISKS",
+       "risks"
+      ]
+     ]
+    },
+    {
+     "kind": "pill",
+     "text": "WORTH YOUR TIME?",
+     "at": "worth"
+    }
+   ]
+  },
+  {
+   "lines": [
+    19,
+    19
+   ],
+   "items": [
+    {
+     "kind": "chapter",
+     "num": "PART 1",
+     "text": "HOW IT WORKS",
+     "at": "+0",
+     "color": "teal"
+    }
+   ]
+  },
+  {
+   "lines": [
+    20,
+    22
+   ],
+   "set": "office",
+   "layout": "right",
+   "mood": "neutral",
+   "items": [
+    {
+     "kind": "prop",
+     "prop": "storage",
+     "label": "SITTING IDLE",
+     "at": "idle"
+    },
+    {
+     "kind": "pill",
+     "text": "OTHERS NEED IT",
+     "at": "need"
+    },
+    {
+     "kind": "title",
+     "text": "FOR A FEE",
+     "at": "fee",
+     "color": "gold"
+    }
+   ]
+  },
+  {
+   "lines": [
+    23,
+    23
+   ],
+   "set": "concept:teal",
+   "layout": "center",
+   "mood": "grin",
+   "items": [
+    {
+     "kind": "number",
+     "text": "5",
+     "label": "MAIN CATEGORIES",
+     "at": "five"
+    }
+   ]
+  },
+  {
+   "lines": [
+    24,
+    28
+   ],
+   "set": "street",
+   "layout": "left",
+   "mood": "smile",
+   "items": [
+    {
+     "kind": "list",
+     "rows": [
+      [
+       "YOUR CAR",
+       "car"
+      ],
+      [
+       "SPACE",
+       "space"
+      ],
+      [
+       "GEAR",
+       "gear"
+      ],
+      [
+       "A POOL",
+       "pool"
+      ],
+      [
+       "LAND",
+       "land"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

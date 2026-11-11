@@ -1,0 +1,5 @@
+{
+ "_note": "one lead per channel; Outfit fields of src/videos/long2d/toon2.ts (jacket, pants, boots, hat ('hair' | null | colour), hair, skin, cap, dress, build). Add a channel when the owner names it.",
+ "default": {"jacket": "#2f8f8a", "pants": "#3a3f52", "boots": "#2e2a36", "hat": "hair", "hair": "#3a2a22"},
+ "stickhustle": {"jacket": "#2f8f8a", "pants": "#3a3f52", "boots": "#2e2a36", "hat": "hair", "hair": "#3a2a22"}
+}
